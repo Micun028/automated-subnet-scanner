@@ -1,4 +1,4 @@
-# Automated Daily Subnet Scanner – Nmap + Telegram Alerts
+# Automated Daily Subnet Scanner || Nmap + Telegram Alerts
 
 **What it does**: Scheduled Nmap full‑port scan of your /24 subnet, compares with baseline, sends Telegram alert on new devices or open ports.
 
